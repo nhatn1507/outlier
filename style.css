@@ -1,0 +1,21 @@
+* {
+	 box-sizing: border-box;
+}	
+
+body, html {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+
+main {
+	background-color: black;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+}
+span {
+	display: inline-block;
+}
